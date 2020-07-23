@@ -1,0 +1,14 @@
+var a =10;
+document.write(" <br> the value of a is  : " +a);
+++a;
+document.write("<br> the value of ++a is : " +a);
+document.write(" <br> now the value of a is 11 : ");
+a++;
+document.write("<br> the value of a++ is  : " +a);
+document.write(" <br> now  the value of a is : " +a);
+--a;
+document.write("<br> the value of --a is : " +a);
+document.write(" <br> now the value of a is : " +a);
+a--;
+document.write("<br> the value of a-- is : " +a);
+document.write("<br> now the value of a is : " +a);

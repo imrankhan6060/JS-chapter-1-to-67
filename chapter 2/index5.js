@@ -1,0 +1,1 @@
+alert("pizza \n pizz \n piz \n pi \n p \n")
